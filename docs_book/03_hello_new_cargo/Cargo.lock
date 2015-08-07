@@ -1,0 +1,4 @@
+[root]
+name = "hello_new_cargo"
+version = "0.1.0"
+
