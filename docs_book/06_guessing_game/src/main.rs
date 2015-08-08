@@ -31,12 +31,3 @@ fn main() {
         Ordering::Equal   => println!("You win!"),
     }
 }
-
-////////////////////////////////////////////////////
-// <===================OUTPUT===================> //
-// Guess the number!                              //
-// The secret number is: 37                       //
-// please Input you guess!                        //
-// 342                                            //
-// You guessed: 342                               //
-////////////////////////////////////////////////////
