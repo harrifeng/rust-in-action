@@ -1,0 +1,4 @@
+[package]
+name = "09_philosopher"
+version = "0.1.0"
+authors = ["Haoran Feng <haoran.feng@sap.com>"]
